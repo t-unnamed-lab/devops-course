@@ -10,3 +10,6 @@
 [submodule "bash"]
 	path = bash
 	url = git@github.com:t-unnamed-lab/bash.git
+[submodule "ansible"]
+	path = ansible
+	url = git@github.com:t-unnamed-lab/ansible.git

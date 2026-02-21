@@ -1,3 +1,6 @@
 [submodule "kubernetes"]
 	path = kubernetes
 	url = git@github.com:t-unnamed-lab/kubernetes.git
+[submodule "docker"]
+	path = docker
+	url = git@github.com:t-unnamed-lab/docker.git

@@ -7,3 +7,6 @@
 [submodule "ci-cd"]
 	path = ci-cd
 	url = git@github.com:t-unnamed-lab/ci-cd.git
+[submodule "bash"]
+	path = bash
+	url = git@github.com:t-unnamed-lab/bash.git

@@ -13,3 +13,6 @@
 [submodule "ansible"]
 	path = ansible
 	url = git@github.com:t-unnamed-lab/ansible.git
+[submodule "linux"]
+	path = linux
+	url = git@github.com:t-unnamed-lab/linux.git

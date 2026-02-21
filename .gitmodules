@@ -4,3 +4,6 @@
 [submodule "docker"]
 	path = docker
 	url = git@github.com:t-unnamed-lab/docker.git
+[submodule "ci-cd"]
+	path = ci-cd
+	url = git@github.com:t-unnamed-lab/ci-cd.git
